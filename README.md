@@ -6,7 +6,10 @@
 Espace de partage et de recherche pour la DustMachine '(titre temporaire)' inspiré de la machine électrostatique de l'abbé Nollet et du générateur de Van de Graaff.
 
 ## Organisation
-  - 📚 [Documentation] > Les liens, références d'ouvrages, scans, livres, recherches sur le web à consulter ...
-  - 🛠️ [Conception] > Fichiers 3D, dessins, codes propres à la création future.
-  - 📝 [Notes & Idées] > tout est dans le titre :)
+### - 📚 Documentation 
+> Les liens, références d'ouvrages, scans, livres, recherches sur le web à consulter ...
+### - 🛠️ Conception 
+> Fichiers 3D, dessins, codes propres à la création future.
+### - 📝 Notes & Idées 
+> tout est dans le titre :)
 
